@@ -60,7 +60,7 @@ class MainPage extends ConsumerWidget {
         backgroundColor: Colors.transparent,
         elevation: 0,
         title: const Text(
-          'VatrinFilm',
+          'Vatrin Film',
           style: TextStyle(
             fontSize: 30,
             fontWeight: FontWeight.bold,
